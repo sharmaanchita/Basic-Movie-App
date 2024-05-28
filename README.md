@@ -1,2 +1,2 @@
-# Easy Small Movie-App
+# Basic Movie-App
 Starting project for full-stack development. 

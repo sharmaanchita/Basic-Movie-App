@@ -1,2 +1,2 @@
-# Frontend-Movie-App
-Starting project for full-stack development
+# Easy Small Movie-App
+Starting project for full-stack development. 
